@@ -1,0 +1,15 @@
+C:\Users\Terry\source\repos\FurnitureRepair\bin\Debug\FurnitureRepair.exe.config
+C:\Users\Terry\source\repos\FurnitureRepair\bin\Debug\FurnitureRepair.exe
+C:\Users\Terry\source\repos\FurnitureRepair\bin\Debug\FurnitureRepair.pdb
+C:\Users\Terry\source\repos\FurnitureRepair\obj\Debug\FurnitureRepair.csprojAssemblyReference.cache
+C:\Users\Terry\source\repos\FurnitureRepair\obj\Debug\FurnitureRepair.Form1.resources
+C:\Users\Terry\source\repos\FurnitureRepair\obj\Debug\FurnitureRepair.Properties.Resources.resources
+C:\Users\Terry\source\repos\FurnitureRepair\obj\Debug\FurnitureRepair.csproj.GenerateResource.cache
+C:\Users\Terry\source\repos\FurnitureRepair\obj\Debug\FurnitureRepair.csproj.CoreCompileInputs.cache
+C:\Users\Terry\source\repos\FurnitureRepair\obj\Debug\FurnitureRepair.exe
+C:\Users\Terry\source\repos\FurnitureRepair\obj\Debug\FurnitureRepair.pdb
+C:\Users\Terry\source\repos\FurnitureRepair\bin\Debug\dje\FurnitureRepair.resources.dll
+C:\Users\Terry\source\repos\FurnitureRepair\obj\Debug\FurnitureRepair.Form1.dje.resources
+C:\Users\Terry\source\repos\FurnitureRepair\obj\Debug\dje\FurnitureRepair.resources.dll
+C:\Users\Terry\source\repos\FurnitureRepair\bin\Debug\MebelProject.mdf
+C:\Users\Terry\source\repos\FurnitureRepair\bin\Debug\MebelProject_log.ldf
